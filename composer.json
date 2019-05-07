@@ -1,0 +1,17 @@
+{
+    "name": "pengxlong/penlsun",
+    "description": "echo hello php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "penl",
+            "email": "penlsun.wind@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\Wow\\": "src"
+        }
+    },
+    "require": {}
+}
